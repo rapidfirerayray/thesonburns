@@ -1,0 +1,23 @@
+h1 {
+  font-family: sans;
+  text-align: center;
+}
+
+#title {
+  padding-top: 10vh;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+p {
+  text-align: center;
+}
+
+iframe {
+  margin: 0 auto;
+  max-width: 90vw;
+  max-height: 50vh;
+}
