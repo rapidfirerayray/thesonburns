@@ -21,3 +21,12 @@ iframe {
   max-width: 90vw;
   max-height: 50vh;
 }
+
+
+* {
+  color-scheme: dark !important;
+ }
+
+html {
+	color-scheme: dark !important;
+}
