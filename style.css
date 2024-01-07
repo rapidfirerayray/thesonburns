@@ -1,5 +1,4 @@
 h1 {
-  font-family: sans;
   text-align: center;
 }
 
@@ -25,6 +24,7 @@ iframe {
 
 * {
   color-scheme: dark !important;
+  font-family: arial;
  }
 
 html {
